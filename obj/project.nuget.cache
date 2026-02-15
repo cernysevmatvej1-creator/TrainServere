@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "dgSpecHash": "PBEkTDcv9Fw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Матвей\\source\\repos\\TraneServer\\TraneServer\\TraneServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Матвей\\.nuget\\packages\\firebase.auth\\1.0.0\\firebase.auth.1.0.0.nupkg.sha512",
+    "C:\\Users\\Матвей\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\Матвей\\.nuget\\packages\\microsoft.netcore.jit\\1.0.2\\microsoft.netcore.jit.1.0.2.nupkg.sha512",
+    "C:\\Users\\Матвей\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
+    "C:\\Users\\Матвей\\.nuget\\packages\\microsoft.netcore.portable.compatibility\\1.0.1\\microsoft.netcore.portable.compatibility.1.0.1.nupkg.sha512",
+    "C:\\Users\\Матвей\\.nuget\\packages\\microsoft.netcore.runtime.coreclr\\1.0.2\\microsoft.netcore.runtime.coreclr.1.0.2.nupkg.sha512",
+    "C:\\Users\\Матвей\\.nuget\\packages\\microsoft.netcore.windows.apisets\\1.0.1\\microsoft.netcore.windows.apisets.1.0.1.nupkg.sha512",
+    "C:\\Users\\Матвей\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\Матвей\\.nuget\\packages\\netstandard.library\\1.6.0\\netstandard.library.1.6.0.nupkg.sha512",
+    "C:\\Users\\Матвей\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "У пакета \"Microsoft.NETCore.Jit\" 1.0.2 есть известная уязвимость https://github.com/advisories/GHSA-xcvr-qv8h-m7xw (уровень серьезности: высокий уровень)",
+      "projectPath": "C:\\Users\\Матвей\\source\\repos\\TraneServer\\TraneServer\\TraneServer.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Матвей\\source\\repos\\TraneServer\\TraneServer\\TraneServer.csproj",
+      "libraryId": "Microsoft.NETCore.Jit",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "У пакета \"Newtonsoft.Json\" 9.0.1 есть известная уязвимость https://github.com/advisories/GHSA-5crp-9r3c-p9vr (уровень серьезности: высокий уровень)",
+      "projectPath": "C:\\Users\\Матвей\\source\\repos\\TraneServer\\TraneServer\\TraneServer.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Матвей\\source\\repos\\TraneServer\\TraneServer\\TraneServer.csproj",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

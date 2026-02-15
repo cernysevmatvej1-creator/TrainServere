@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "TraneServer.Controllers.TraneServerController",
+    "Method": "SignAuthAnonim",
+    "RelativePath": "TraneServer/auth-anonim",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TraneServer.Controllers.TraneServerController",
+    "Method": "GetIdToken",
+    "RelativePath": "TraneServer/GetIdToken",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "authin",
+        "Type": "TraneServer.Controllers.FirebaseAuthAnonim",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
