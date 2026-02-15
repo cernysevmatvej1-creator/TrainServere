@@ -2,8 +2,8 @@
 FROM mcr.microsoft.com/dotnet/sdk:9.0 AS build
 WORKDIR /src
 
-# Копируем файл проекта (теперь он в корне)
-COPY *.csproj .
+# Копируем файл проекта (он теперь в корне и называется TraneServer.csproj)
+COPY TraneServer.csproj .
 RUN dotnet restore
 
 # Копируем все остальные файлы
