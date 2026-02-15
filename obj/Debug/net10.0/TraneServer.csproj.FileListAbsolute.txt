@@ -35,3 +35,4 @@ C:\Users\Матвей\source\repos\TraneServer\TraneServer\obj\Debug\net10.0\ref
 C:\Users\Матвей\source\repos\TraneServer\TraneServer\obj\Debug\net10.0\TraneServer.pdb
 C:\Users\Матвей\source\repos\TraneServer\TraneServer\obj\Debug\net10.0\TraneServer.genruntimeconfig.cache
 C:\Users\Матвей\source\repos\TraneServer\TraneServer\obj\Debug\net10.0\ref\TraneServer.dll
+C:\Users\Матвей\source\repos\TraneServer\TraneServer\obj\Debug\net10.0\TraneServer.sourcelink.json

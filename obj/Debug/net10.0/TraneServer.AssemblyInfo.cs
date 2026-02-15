@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TraneServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6194a9ce5d55ffe97b76c4c97cc050747c545b2e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19e6ac6ad5bcf48025d9c421d16f42bbcaa2f7fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("TraneServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TraneServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
